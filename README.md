@@ -14,5 +14,3 @@ Este repositório contém o **site de apresentação do aplicativo**, desenvolvi
 - Vite  
 - JavaScript (ES Modules)  
 - PostCSS  
-- Node.js  
-- npm  
