@@ -1,10 +1,16 @@
 # Projeto APP: Alerta Rápido
 
-Aplicativo web/mobile para alertar a população sobre riscos de enchentes em tempo real, usando dados de sensores, previsão do tempo e relatos da comunidade.
+# 🌧️ Alerta Rápido: App de Emergência contra Enchentes
 
-## Tecnologias usadas
+O **Alerta Rápido** é um aplicativo mobile que envia alertas em tempo real sobre riscos de enchentes. Ele utiliza sensores, previsão do tempo e relatos da comunidade para manter os moradores informados e seguros em áreas de risco.
+
+Este repositório contém o **site de apresentação do aplicativo**, desenvolvido com **React + Vite + Tailwind CSS**.
+
+## 🚀 Tecnologias usadas
 
 - React
-- React Router DOM
-- Tailwind CSS
 - Vite
+- Tailwind CSS
+- React Router DOM
+- Lucide Icons
+
