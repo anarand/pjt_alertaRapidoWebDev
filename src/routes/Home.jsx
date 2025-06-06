@@ -3,9 +3,10 @@ import { FaWater, FaCity, FaExclamationTriangle } from "react-icons/fa";
 const Home = () => {
   return (
     <main className="p-8 max-w-6xl mx-auto">
-      <h1 className="text-4xl font-extrabold mb-6 text-center text-blue-700 drop-shadow-md">
-        Bem-vindo ao Alerta Rápido
-      </h1>
+<h1 className="text-4xl sm:text-5xl font-extrabold text-center text-blue-700 tracking-tight leading-tight mb-6">
+  Bem-vindo ao Alerta Rápido
+</h1>
+
       
       <p className="text-xl leading-relaxed max-w-3xl mx-auto text-center mb-14 text-gray-800">
         O Alerta Rápido é um aplicativo mobile desenvolvido para proteger comunidades que vivem em áreas suscetíveis a enchentes. 
