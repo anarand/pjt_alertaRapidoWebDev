@@ -1,6 +1,6 @@
 const Login = () => {
   return (
-    <main className="flex items-center justify-center min-h-screen bg-gradient-to-r from-blue-400 to-indigo-600 p-6">
+    <main className="flex items-start justify-center min-h-screen bg-gray-100 pt-16 px-6">
       <div className="bg-white rounded-lg shadow-lg p-8 max-w-md w-full">
         <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">Entrar no Alerta Rápido</h1>
         
