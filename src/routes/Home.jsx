@@ -3,7 +3,7 @@ import { FaWater, FaCity, FaExclamationTriangle } from "react-icons/fa";
 const Home = () => {
   return (
     <main className="p-8 max-w-6xl mx-auto">
-<h1 className="text-4xl sm:text-5xl font-extrabold text-center text-blue-700 tracking-tight leading-tight mb-6">
+<h1 className="text-4xl sm:text-5xl font-semibold text-center text-blue-700 tracking-tight leading-tight mb-6">
   Bem-vindo ao Alerta Rápido
 </h1>
 
