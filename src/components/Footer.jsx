@@ -10,7 +10,7 @@ const Footer = () => {
             O Alerta Rápido conecta tecnologia e comunidades para salvar vidas em áreas de risco de enchentes.
           </p>
         </div>
-
+        
         {/* Links */}
         <div>
           <h4 className="text-lg font-semibold mb-2">Explorar</h4>
