@@ -8,9 +8,11 @@ Este repositório contém o **site de apresentação do aplicativo**, desenvolvi
 
 ## 🚀 Tecnologias usadas
 
-- React
-- Vite
-- Tailwind CSS
-- React Router DOM
-- Lucide Icons
-
+- React  
+- React Router Dom  
+- Tailwind CSS  
+- Vite  
+- JavaScript (ES Modules)  
+- PostCSS  
+- Node.js  
+- npm  
