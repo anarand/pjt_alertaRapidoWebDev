@@ -16,3 +16,6 @@ Este repositório contém o **site de apresentação do aplicativo**, desenvolvi
 - PostCSS  
 
 Para executar o projeto, primeiro clone o repositório para sua máquina local. Em seguida, abra o terminal na pasta do projeto e execute o comando `npm install` para instalar todas as dependências necessárias. Após a instalação, inicie o servidor de desenvolvimento com o comando `npm run dev`. O projeto estará disponível em seu navegador no endereço indicado no terminal, geralmente `http://localhost:5173`. Para encerrar a execução, basta fechar o terminal ou usar o comando de interrupção (Ctrl + C).
+
+
+link repositório: https://github.com/anarand/pjt_alertaRapidoWebDev
